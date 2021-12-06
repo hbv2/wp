@@ -1,0 +1,13 @@
+*.php
+*.htaccess
+*.icloud
+*.xml
+*.ini
+*.conf
+wp-content/cache/
+wp-content/upgrade/
+wp-content/ai1wm-backups
+wp-content/w3tc-config
+wp-content/languages
+wp-includes/certificates
+
